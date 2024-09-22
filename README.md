@@ -2,8 +2,6 @@
 
 Por *Isabella Jaimes* y *Henny Sánchez*. Plantilla de Rosa Carbo-Mascarell | [Twitter](https://twitter.com/moreelen) | [TikTok](https://www.tiktok.com/@moreelen) | [LinkedIn](https://www.linkedin.com/in/moreelen/)
 
-Link al proyecto git : [Añadir git link]
-
 ---
 
 # Resumen
@@ -12,7 +10,7 @@ Link al proyecto git : [Añadir git link]
 
 Un juego simple pero fiel a sí mismo basado en el legendario shooter de máquinas arcade.
 
-
+![hola](/Assets/Asteroid.png)
 # Principal
 
 [Pilares del diseño](https://www.notion.so/Pilares-del-dise-o-fffeb17e279c81cd81a9cda5016a11ce?pvs=21)
